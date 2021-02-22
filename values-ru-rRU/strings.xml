@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_maps">Карта</string>
+    <string name="nav_city_info_title">Информация о городе</string>
+    <string name="open_location_settings_dialog_message">Пожалуйста, включите позиционирование по GPS, Wifi и мобильным сетям, чтобы увидеть ваше местоположение на карте.</string>
+    <string name="all_markers_fab_label">Все места</string>
+    <string name="no_markers_fab_label">Никакие</string>
+    <string name="only_favorites_fab_label">Только избранные</string>
+    <string name="nav_about_title">О программе</string>
+
+    <!-- Preference Titles -->
+    <string name="appearance_settings_header">Внешний вид</string>
+    <string name="night_mode_title">Ночной режим</string>
+
+    <!-- Night mode Preferences -->
+    <string name="night_mode_on">Включен</string>
+    <string name="night_mode_off">Выключен</string>
+    <string name="night_mode_system">Системный</string>
+
+    <string name="nav_places_title">Места</string>
+    <string name="nav_favourites_title">Избранное</string>
+    <string name="nav_settings_title">Настройки</string>
+    <string name="title_activity_settings">Настройки</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="open_location_settings_dialog_title">Открыть настройки определения местоположения?</string>
+    <string name="title_place_list">Места</string>
+    <string name="title_place_detail">Подробности о месте</string>
+    <string name="place_search_hint">Название, тип или адрес</string>
+    <string name="show_on_the_map">Показать на карте</string>
+    <string name="info_about_city_activity_title">О городе</string>
+    <string name="title_activity_about">О программе</string>
+    <string name="contact_info">"© 2020 fl1ckje, Владислав Карелин\n\ne-mail: fl1ckje.dev@gmail.com\n\nСайт спонсора http://if-mstuca.ru/"</string>
+    <string name="description">Описание</string>
+    <string name="app_description">"Irkutsk Explorer - это программа для навигации по историко-культурным объектам города Иркутск.\n\n"
+        "Irkutsk Explorer позволяет:\n"
+        "> просматривать подробное текстовое описание историко-культурных объектов;\n"
+        "> отслеживать ваше текущее местоположение;\n"
+        "> находить объекты на карте города;\n"
+        "> прокладывать маршрут от вашего текущего местоположения до объектов.\n\n"
+        "Приложение разработано в рамках проекта гранта Ученого совета ИФ МГТУ ГА среди студентов вуза в номинации «Гуманитарные науки, включая иностранные языки»."
+    </string>
+    <string name="gratitude">Благодарность</string>
+    <string name="gratitude_text">Астраханцев Олег Николаевич - научное руководство проекта.\nИванов Илья Михайлович - участие в сборе данных на ранней стадии разработки.
+    </string>
+    <string name="third_party_libraries_title">Сторонние библиотеки</string>
+</resources>
